@@ -43,6 +43,9 @@ QR Reader only runs when you click it. Decoding happens entirely inside your bro
 | Screenshot 1 | 1280×800 | `store/screenshot-1-select.png` |
 | Screenshot 2 | 1280×800 | `store/screenshot-2-result.png` |
 | Small promo tile | 440×280 | `store/promo-small-440x280.png` |
+| Marquee promo tile | 1400×560 | `store/promo-marquee-1400x560.png` (source: `store/promo-marquee.html`) |
+
+All store images are 24-bit PNGs without alpha, as the dashboard requires.
 
 ## Privacy tab
 
