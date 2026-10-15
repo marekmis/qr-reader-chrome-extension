@@ -1,0 +1,18 @@
+# Build output (Web Store upload zip) — rebuild with tools/build.ps1
+dist/
+*.zip
+*.crx
+*.pem
+
+# Local tooling
+.claude/settings.local.json
+.playwright-mcp/
+node_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
